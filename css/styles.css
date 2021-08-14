@@ -1,0 +1,164 @@
+.container-fluid {
+    padding: 3% 10%;
+}
+
+body {
+    font-family: 'Montserrat-Black', sans-serif;
+}
+
+h1,
+h2,
+h3 {
+    font-weight: 900;
+}
+
+
+/* Title Section */
+
+#title h1 {
+    font-family: 'Montserrat-Black', sans-serif;
+    color: #fff;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+#title {
+    background-color: #ff4c68;
+    height: 700px;
+}
+
+.title-image {
+    width: 60%;
+    transform: rotate(25deg);
+}
+
+
+/* Navbar CSS */
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 2.5rem;
+}
+
+.navbar {
+    padding-bottom: 4.5rem;
+}
+
+.nav-item {
+    padding: 0px 18px;
+}
+
+.nav-link {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+/* Download Button */
+
+.download-btn {
+    margin: 5% 3% 5% 0;
+}
+
+
+/* Features */
+
+#features {
+    text-align: center;
+    padding: 10% 10%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+#features h3 {
+    font-family: 'Montserrat-Black', sans-serif;
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+#features i {
+    color: #ff4c68;
+    padding-bottom: 20px;
+}
+
+
+/* Testimonials Section */
+
+#testimonials {
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+#testimonials h2 {
+    font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 4rem;
+}
+
+.testimonials-image {
+    width: 10%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+.carousel-item {
+    padding: 5% 10%;
+}
+
+
+/* Press Section */
+
+#press {
+    background-color: whitesmoke;
+    text-align: center;
+}
+
+.press-logo {
+    width: 15%;
+    margin: 50px 20px 50px;
+}
+
+
+/* Pricing Section */
+
+#pricing {
+    padding: 5%;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 5% 2%;
+}
+
+
+/* CTA Section */
+
+#cta {
+    text-align: center;
+    color: #fff;
+    padding: 10% 10%;
+    background-color: #ff4c68;
+}
+
+#cta h3 {
+    font-size: 3rem;
+}
+
+
+/* Footer Section */
+
+#footer {
+    text-align: center;
+    padding: 2% 2%;
+}
+
+#footer i {
+    padding: 10px;
+}
+
+
+/* RESPONSIVE WEB DESIGN */
+
+@media screen(max-width:) {}
